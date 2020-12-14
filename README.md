@@ -11,23 +11,23 @@
 
 
 # Main features
-> # ⚖️ Get balanced news feed
+> ## ⚖️ Get balanced news feed
 <img width="1318" alt="Screen Shot 2020-12-14 at 6 09 35 PM" src="https://user-images.githubusercontent.com/34419390/102129587-816df800-3e47-11eb-95ac-369957b7baae.png">
 
 - We provide all kind of news media from various political stance in one page so that user can see all sides of the fact in the same topic
 
-> # 🌈 A colourful way to track your bias!
+> ## 🌈 A colourful way to track your bias!
 <img width="1316" alt="Screen Shot 2020-12-14 at 6 09 51 PM" src="https://user-images.githubusercontent.com/34419390/102129589-82068e80-3e47-11eb-9323-55c76a2e85d5.png">
 
 - Your app changes color based on the news-articles you visit, allowing you to track what political stance you're exposed to
 
 
-> # 📊 Analyze your news habits!
+> ## 📊 Analyze your news habits!
 <img width="1317" alt="Screen Shot 2020-12-14 at 6 10 03 PM" src="https://user-images.githubusercontent.com/34419390/102129591-829f2500-3e47-11eb-9760-f26116790ace.png">
 
 - Sign up for free to access analytics about what newspapers you read, what opinions you get exposed to and more
 
-## 🤖Here are tech stacks that we used for this project
+# 🤖Here are tech stacks that we used for this project
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
