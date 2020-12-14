@@ -20,7 +20,7 @@
 - Sign up for free to access analytics about what newspapers you read, what opinions you get exposed to and more
 <img width="1317" alt="Screen Shot 2020-12-14 at 6 10 03 PM" src="https://user-images.githubusercontent.com/34419390/102129591-829f2500-3e47-11eb-9760-f26116790ace.png">
 
-## 🤖Here are tech stacks that I used for this project
+## 🤖Here are tech stacks that we used for this project
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
